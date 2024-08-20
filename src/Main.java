@@ -1,11 +1,11 @@
 import java.text.DecimalFormat;
 
-public class Main {
+public class in {
     public static void main(String[] args) {
 
         // Informações
         String produto = "Mouse Logitech G-pro";
-        double prcTecMec = 590.99;
+        double prcTecMec = 559.99;
         int qtdTecMec = 38;
 
         double txa = (double) 90 /100;
